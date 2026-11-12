@@ -1,0 +1,10 @@
+{
+  "name": "barre-usage",
+  "version": "0.1.0",
+  "description": "Barre au-dessus du chat : coût en dollars, contexte, fenêtre 5 h, semaine de l'abonnement et session, avec projection au rythme actuel.",
+  "author": {
+    "name": "CadenzIA",
+    "url": "https://cadenzia.fr"
+  },
+  "types": "./types/index.d.ts"
+}
